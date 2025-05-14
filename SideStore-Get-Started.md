@@ -11,10 +11,10 @@
 ## 🧰 所需文件下载
 在电脑上下载以下工具：
 
-- [AltServer](https://altstore.io/)
-- [SideStore.ipa](https://sideload.tips/)
-- [JitterbugPair](https://github.com/sourcelocation/JitterbugPair/releases)
-- [StosVPN](https://github.com/SideStore/StosVPN/releases)
+- [AltServer](https://cdn.altstore.io/file/altstore/altserver.zip)
+- [SideStore.ipa](https://github.com/sidestore/sidestore/releases/latest/download/sidestore.ipa)
+- [JitterbugPair](https://github.com/osy/Jitterbug/releases/download/v1.3.1/jitterbugpair-macos.zip)
+- [StosVPN](https://apps.apple.com/us/app/stosvpn/id6744003051)
 
 ---
 
