@@ -1,6 +1,7 @@
 # 📱 SideStore 安装与使用简洁指南（适用于 macOS + iOS）
 
 ## ✅ 前提条件
+
 - 一台运行 macOS 10.15 或更高版本的 Mac
 - 一部运行 iOS/iPadOS 14 或更高版本的设备
 - 一个 Apple ID
@@ -9,6 +10,7 @@
 ---
 
 ## 🧰 所需文件下载
+
 在电脑上下载以下工具：
 
 - [AltServer](https://cdn.altstore.io/file/altstore/altserver.zip)
@@ -21,6 +23,7 @@
 ## 🧩 安装步骤
 
 ### 1. 安装 AltServer
+
 1. 解压 `AltServer.zip`
 2. 拖动 `AltServer.app` 到 **应用程序** 文件夹
 3. 右键点击并选择“打开”以绕过安全提示
@@ -28,6 +31,7 @@
 ---
 
 ### 2. 安装 SideStore
+
 1. 用数据线连接设备
 2. 如有提示，点击“信任此电脑”并输入设备密码
 3. 启动 AltServer，**按住 Option 键**，点击顶部菜单栏中的 AltServer 图标 → 选择 **Sideload .ipa**
@@ -39,6 +43,7 @@
 ---
 
 ### 3. 配对设备
+
 1. 解压 `JitterbugPair.zip`
 2. 运行 JitterbugPair（确保设备保持连接且在主屏幕）
 3. 会生成一个 `.mobiledevicepairing` 文件
@@ -50,13 +55,15 @@
 ---
 
 ### 4. 安装与启用 StosVPN
-1. 在设备上下载并安装 StosVPN
+
+1. 在设备上通过 App Store 下载并安装 StosVPN
 2. 启用 VPN 配置（**每次使用 SideStore 都需开启**）
    > StosVPN 不连接外网，仅用于本机通信以支持自动刷新
 
 ---
 
 ### 5. 登录并刷新 SideStore
+
 1. 打开 SideStore，使用安装时的 Apple ID 登录
 2. 进入 “Apps” 标签页 → 点击绿色天数或 “Refresh All” 进行刷新
    > 每次重新安装 SideStore 后必须刷新，否则可能导致应用提前过期
@@ -64,12 +71,14 @@
 ---
 
 ## 🚀 安装应用
+
 - 在 “Sources” 中添加源，在 “Browse” 页面浏览并安装
 - 在 “Apps” 中点击 `+` 号，从设备导入 `.ipa` 文件并安装
 
 ---
 
 ## 🔁 应用过期与刷新说明
+
 - 应用过期后不可打开，需刷新才能恢复使用
 - 若 SideStore 过期：请重新执行安装步骤 **（无需卸载 SideStore）**
 - 若其他应用过期：直接在 SideStore 中刷新即可
@@ -77,4 +86,5 @@
 ---
 
 ## 🆘 技术支持
-如遇问题，可以直接提issue，来获取帮助
+
+如遇问题，可以直接提 issue，来获取帮助
