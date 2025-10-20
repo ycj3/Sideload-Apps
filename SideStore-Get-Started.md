@@ -26,7 +26,11 @@
 
 1. 解压 `AltServer.zip`
 2. 拖动 `AltServer.app` 到 **应用程序** 文件夹
+   <img width="1254" height="493" alt="image" src="https://github.com/user-attachments/assets/286cc7f2-00a5-435b-8f0c-e729a441718d" />
+   
 3. 右键点击并选择“打开”以绕过安全提示
+   <img width="1440" height="482" alt="image" src="https://github.com/user-attachments/assets/1053341b-9f41-4265-b913-0ff8330442e3" />
+
 
 ---
 
@@ -35,6 +39,7 @@
 1. 用数据线连接设备
 2. 如有提示，点击“信任此电脑”并输入设备密码
 3. 启动 AltServer，**按住 Option 键**，点击顶部菜单栏中的 AltServer 图标 → 选择 **Sideload .ipa**
+   <img width="786" height="484" alt="image" src="https://github.com/user-attachments/assets/a1bed0bd-f3e5-46e1-8d61-43fc5653a1f3" />
 4. 选择下载的 `SideStore.ipa`，按提示安装
 5. 设备中进入：**设置 > 通用 > VPN 与设备管理** → 点击信任 Apple ID 开发者应用
 6. 如果是 iOS/iPadOS 16 或更高版本：
@@ -69,6 +74,8 @@
    > 每次重新安装 SideStore 后必须刷新，否则可能导致应用提前过期
 
 ---
+
+https://github.com/user-attachments/assets/c1cdfb08-6530-40f7-8123-6251892898e8
 
 ## 🚀 安装应用
 
