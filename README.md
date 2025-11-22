@@ -17,3 +17,13 @@
 **A：SideStore 只在首次安装时需要 AltServer，之后应用刷新都可以在手机本地自动完成，无需每周连接电脑。**
 
 ---
+
+## 支持我
+
+如果你觉得这个项目对你有帮助，可以扫码打赏我，非常感谢！
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/ycj3/Sideload-Apps/main/.github/sponsor/wechat.JPG" alt="微信赞赏码" width="300" />
+</div>
+
+> ❤️ 每一份支持都是动力！
