@@ -25,12 +25,13 @@
 
 ---
 
-## 支持我
+## 赞赏项目
 
-如果你觉得这个项目对你有帮助，可以扫码打赏我，非常感谢！
+如果觉得这个项目对你有帮助，欢迎请我喝咖啡 ☕️
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/ycj3/Sideload-Apps/main/.github/sponsor/wechat.JPG" alt="微信赞赏码" width="300" />
+> 采取**自愿**原则, 收到的赞赏将用于更好的项目建设。
+
+<div id='readme-reward' style="display: flex; gap: 8px; flex-wrap: wrap; width: 100%">
+  <img src="https://raw.githubusercontent.com/ycj3/Sideload-Apps/main/.github/sponsor/wechat.JPG" alt="wxpay" height="160px"style="margin: 24px;"/>
+  <img src="https://raw.githubusercontent.com/ycj3/Sideload-Apps/main/.github/sponsor/ali_pay.JPG" alt="alipay" height="160px" style="margin:24px;"/>
 </div>
-
-> ❤️ 每一份支持都是动力！
