@@ -31,7 +31,23 @@
 
 > 采取**自愿**原则, 收到的赞赏将用于更好的项目建设。
 
-<div id='readme-reward' style="display: flex; gap: 8px; flex-wrap: wrap; width: 100%">
-  <img src="https://raw.githubusercontent.com/ycj3/Sideload-Apps/main/.github/sponsor/wechat.JPG" alt="wxpay" height="160px"style="margin: 24px;"/>
-  <img src="https://raw.githubusercontent.com/ycj3/Sideload-Apps/main/.github/sponsor/ali_pay.JPG" alt="alipay" height="160px" style="margin:24px;"/>
-</div>
+<table align="left">
+  <tr>
+    <td align="center">
+      <img
+        src="https://raw.githubusercontent.com/ycj3/Sideload-Apps/main/.github/sponsor/wechat.JPG"
+        height="160"
+      />
+      <div>微信</div>
+    </td>
+    <td align="center">
+      <img
+        src="https://raw.githubusercontent.com/ycj3/Sideload-Apps/main/.github/sponsor/ali_pay.JPG"
+        height="160"
+      />
+      <div>支付宝</div>
+    </td>
+  </tr>
+</table>
+
+
