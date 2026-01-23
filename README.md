@@ -27,6 +27,18 @@
 
 **A：SideStore 只在首次安装时需要 AltServer，之后应用刷新都可以在手机本地自动完成，无需每周连接电脑。**
 
+### **Q2：（Window）AltStore 无法安装，报错：WinHttpSendRequest: 12002 操作超时**
+
+![error 12002](./assets/error_12002.png)
+请确认已经尝试过一下操作：
+
+- 右键点击 AltServer，选择 “以管理员身份运行”
+- 确保在使用 AltServer 时，iTunes 和/或 iCloud 正在运行
+- 尝试使用 另一个 Apple ID。如有需要，你可以专门为 AltStore 免费创建一个新的 Apple ID 来使用。
+- 你是否是通过 Microsoft Store 安装的 iTunes 或 iCloud？
+  如果是，请将它们卸载，并直接从 Apple 官方网站 下载并安装最新版本。
+- 重新授权 iTunes: 打开 iTunes，通过菜单栏 账户 > 授权 > 授权此电脑
+
 ---
 
 ## 赞赏项目
