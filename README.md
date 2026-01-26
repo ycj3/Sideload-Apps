@@ -3,16 +3,18 @@
 本仓库收录 在非越狱 iOS 设备上安装 IPA 应用的入门指南与资源合集，适合新手快速上手。
 支持通过 AltStore、SideStore 等方式进行侧载，常见用途包括：微信双开、淘宝双开 等。
 
-## 指导文档
+## **Repo 导航**
 
-[修改砸壳 IPA 的 Bundle Identifier 和 App Name](./docs/how-to-modify-decrypted-ipa.md)
+**IPA 安装**
 
-[AltStore 快速开始](./AltStore-Get-Started.md)  
-[SideStore 快速开始](./SideStore-Get-Started.md)
+- [AltStore 快速开始](./AltStore-Get-Started.md)
+- [SideStore 快速开始](./SideStore-Get-Started.md)
 
-## IPA 下载
+**IPA 下载**
 
 - [自用 IPA 列表（iOS 版本 18.4）](https://github.com/ycj3/Sideload-Apps/releases/tag/ipa-list)
+
+相关**越狱文档**，请跳转至 [这里](./READNE_JB.md)
 
 ## 常见问题
 

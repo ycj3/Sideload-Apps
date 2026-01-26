@@ -38,7 +38,6 @@
 首先，你需要将 IPA 文件解压以访问其内部文件。可以通过以下步骤进行：
 
 1. **解压 IPA 文件**：
-
    - 将 `.ipa` 文件的扩展名改为 `.zip`。
    - 使用解压工具（如 macOS 的归档实用工具或 Windows 的解压软件）解压该文件。
 
@@ -128,5 +127,5 @@ The operation couldn’t be completed. Unable to install the app: Invalid value 
 
 ### **4. 通过 [AltStore](../AltStore-Get-Started.md) 或 [SideStore](../SideStore-Get-Started.md) 安装修改后的 IPA**
 
-[AltStore 快速开始](../AltStore-Get-Started.md)  
-[SideStore 快速开始](../SideStore-Get-Started.md)
+- [AltStore 快速开始](../AltStore-Get-Started.md)
+- [SideStore 快速开始](../SideStore-Get-Started.md)
