@@ -10,16 +10,7 @@
 
 ## IPA 下载
 
-**Github 仓库下载:**
-
-- [微信 v8.0.33](https://github.com/ycj3/Sideload-Apps/blob/main/IPAs/WeChat_v8.0.33.ipa)
-- [微信 v8.0.49](https://github.com/ycj3/Sideload-Apps/blob/main/IPAs/WeChat_v8.0.49.ipa)
-
-- [淘宝 v10.22.30](https://github.com/ycj3/Sideload-Apps/blob/main/IPAs/TaoBao_v10.22.30.ipa)
-
-**百度网盘下载:**
-
-- 链接:https://pan.baidu.com/s/1OV0Lrb1zt6pER5HJSFp2ng?pwd=tuge 提取码:tuge 复制这段内容后打开百度网盘手机 App，操作更方便哦
+- [自用 IPA 列表（iOS 版本 18.4）](https://github.com/ycj3/Sideload-Apps/releases/tag/ipa-list)
 
 ## 常见问题
 

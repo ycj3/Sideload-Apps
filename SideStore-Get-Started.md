@@ -27,10 +27,8 @@
 1. 解压 `AltServer.zip`
 2. 拖动 `AltServer.app` 到 **应用程序** 文件夹
    <img width="1254" height="493" alt="image" src="https://github.com/user-attachments/assets/286cc7f2-00a5-435b-8f0c-e729a441718d" />
-   
 3. 右键点击并选择“打开”以绕过安全提示
    <img width="1440" height="482" alt="image" src="https://github.com/user-attachments/assets/1053341b-9f41-4265-b913-0ff8330442e3" />
-
 
 ---
 
@@ -81,6 +79,7 @@ https://github.com/user-attachments/assets/c1cdfb08-6530-40f7-8123-6251892898e8
 
 - 在 “Sources” 中添加源，在 “Browse” 页面浏览并安装
 - 在 “Apps” 中点击 `+` 号，从设备导入 `.ipa` 文件并安装
+  - [自用 IPA 列表（iOS 版本 18.4）](https://github.com/ycj3/Sideload-Apps/releases/tag/ipa-list)
 
 ---
 
