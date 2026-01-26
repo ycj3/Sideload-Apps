@@ -126,4 +126,7 @@ The operation couldn’t be completed. Unable to install the app: Invalid value 
 
 ---
 
-### **4. 通过 AltStore 或 SideStore 安装修改后的 IPA**
+### **4. 通过 [AltStore](../AltStore-Get-Started.md) 或 [SideStore](../SideStore-Get-Started.md) 安装修改后的 IPA**
+
+[AltStore 快速开始](../AltStore-Get-Started.md)  
+[SideStore 快速开始](../SideStore-Get-Started.md)
