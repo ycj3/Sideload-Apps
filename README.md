@@ -5,8 +5,10 @@
 
 ## 指导文档
 
-[AltStore 快速开始](https://github.com/ycj3/Sideload-Apps/blob/main/AltStore-Get-Started.md)  
-[SideStore 快速开始](https://github.com/ycj3/Sideload-Apps/blob/main/SideStore-Get-Started.md)
+[修改砸壳 IPA 的 Bundle Identifier 和 App Name](./docs/how-to-modify-decrypted-ipa.md)
+
+[AltStore 快速开始](./AltStore-Get-Started.md)  
+[SideStore 快速开始](./SideStore-Get-Started.md)
 
 ## IPA 下载
 
