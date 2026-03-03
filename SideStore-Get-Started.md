@@ -48,8 +48,16 @@
 ### 3. 配对设备
 
 1. 解压 `JitterbugPair.zip`
-2. 运行 JitterbugPair（确保设备保持连接且在主屏幕）
-3. 会生成一个 `.mobiledevicepairing` 文件
+2. 运行 JitterbugPair（确保设备保持连接且在主屏幕）。 如果成功，会看到下面界面👇
+   ```
+   SUCCESS: wrote to xxx.mobiledevicepairing
+
+   Saving session...completed.
+
+   [Process completed]
+   ```
+3. 在本机Home目录下，会生成一个 `.mobiledevicepairing` 文件
+![alt text](./assets/image.png)
 4. 压缩该文件为 `.zip` 并通过邮件或网盘传输到设备
 5. 在 **文件 App** 中长按压缩包 → 解压
 6. 打开 SideStore 应用 → 选择解压出的配对文件
