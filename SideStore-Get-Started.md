@@ -16,7 +16,7 @@
 - [AltServer](https://cdn.altstore.io/file/altstore/altserver.zip)
 - [SideStore.ipa](https://github.com/sidestore/sidestore/releases/latest/download/sidestore.ipa)
 - [JitterbugPair](https://github.com/osy/Jitterbug/releases/download/v1.3.1/jitterbugpair-macos.zip)
-- [StosVPN](https://apps.apple.com/us/app/stosvpn/id6744003051)
+- ~~[StosVPN](https://apps.apple.com/us/app/stosvpn/id6744003051)(已经下掉，替换为LocalDevVPN)~~，[LocalDevVPN](https://apps.apple.com/us/app/localdevvpn/id6755608044)
 
 ---
 
@@ -65,13 +65,21 @@
 
 ---
 
-### 4. 安装与启用 StosVPN
+### 4. 安装与启用 ~~StosVPN~~ LocalDevVPN
 
-1. 在设备上通过 App Store 下载并安装 StosVPN
+1. 在设备上通过 App Store 下载并安装 ~~StosVPN~~ LocalDevVPN
 2. 启用 VPN 配置（**每次使用 SideStore 都需开启**）
-   > StosVPN 不连接外网，仅用于本机通信以支持自动刷新
+   > ~~StosVPN~~ LocalDevVPN 不连接外网，仅用于本机通信以支持自动刷新
 
 ---
+
+
+
+https://github.com/user-attachments/assets/11ec93c2-0a4d-4b59-9b69-2b6f10a98446
+
+
+
+
 
 ### 5. 登录并刷新 SideStore
 
@@ -80,8 +88,6 @@
    > 每次重新安装 SideStore 后必须刷新，否则可能导致应用提前过期
 
 ---
-
-https://github.com/user-attachments/assets/c1cdfb08-6530-40f7-8123-6251892898e8
 
 ## 🚀 安装应用
 
